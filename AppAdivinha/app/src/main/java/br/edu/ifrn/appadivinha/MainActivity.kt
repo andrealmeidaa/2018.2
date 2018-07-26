@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         val s=txtNumero.text.toString().toInt()
         val numero=rnd.nextInt(11)
         if (s==numero){
-            txtResultado.text="Acertou o número"
+            txtResultado.text="Acertou o número sorteado"
         }else{
             txtResultado.text="Errou - ${numero}"
         }
