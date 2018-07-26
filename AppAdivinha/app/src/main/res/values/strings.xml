@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppAdivinha</string>
+    <string name="numero">Número de 0 a 10</string>
+    <string name="numeroLabel">Número:</string>
+    <string name="btnAdivinhar">Adivinhar</string>
+    <string name="txtResultado">TextView</string>
+</resources>
